@@ -10,7 +10,8 @@
 ขั้นตอนการติดตั้งไฟล์
 1. แตกไฟล์ออกมา
 2. ติดตั้งฐานข้อมูลซึ่งไฟล์จะอยู่ที่ folder ชื่อว่า database > db_econ_cmu.sql
-3. ติดตั้ง composer เพื่อ run laravel
+3. ติดตั้ง xampp version v.3.3.0 version ("php": 8.1)
+4. ติดตั้ง composer เพื่อ run laravel
     https://getcomposer.org/download/
 5. ดำเนินการเปิด cmd พิมพ์ command (สำหรับจำลอง  laravel) 
    econ_cmu/php artisan serv
