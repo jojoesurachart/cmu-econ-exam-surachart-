@@ -11,12 +11,14 @@
 1. แตกไฟล์ออกมา
 2. ติดตั้งฐานข้อมูลซึ่งไฟล์จะอยู่ที่ folder ชื่อว่า database > db_econ_cmu.sql
 3. ติดตั้ง xampp version v.3.3.0 version ("php": 8.1)
-4. ติดตั้ง composer เพื่อ run laravel
+4. ติดตั้ง Node.js สำหรับรันคำสั่งของ react js
+   https://nodejs.org/en/download
+6. ติดตั้ง composer เพื่อ run laravel
     https://getcomposer.org/download/
-5. ดำเนินการเปิด cmd พิมพ์ command (สำหรับจำลอง  laravel) 
+7. ดำเนินการเปิด cmd พิมพ์ command (สำหรับจำลอง  laravel) 
    econ_cmu/php artisan serv
-6. ดำเนินการเปิด cmd พิมพ์ command (สำหรับจำลอง reactjs)
+8. ดำเนินการเปิด cmd พิมพ์ command (สำหรับจำลอง reactjs)
     econ_cmu/econ_cmu_system/npm run dev
-7. Source reactjs จะอยู่ที่ Folder ที่ชื่อว่า 
+9. Source reactjs จะอยู่ที่ Folder ที่ชื่อว่า 
     
    
