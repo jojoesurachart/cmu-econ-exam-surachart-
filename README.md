@@ -9,7 +9,7 @@
 3. ใช้ MySql เป็นฐานข้อมูล
 ขั้นตอนการติดตั้งไฟล์
 1. แตกไฟล์ออกมา
-2. ติดตั้งฐานข้อมูลซึ่งไฟล์จะอยู่ที่ folder ชื่อว่า database > db_econ_cmu.sql
+2. ติดตั้งฐานข้อมูลซึ่งไฟล์จะอยู่ที่ folder ชื่อว่า econ_cmu/database/db_econ_cmu.sql
 3. ติดตั้ง xampp version v.3.3.0 version ("php": 8.1)
 4. ติดตั้ง Node.js สำหรับรันคำสั่งของ react js
    https://nodejs.org/en/download
