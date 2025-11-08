@@ -20,6 +20,6 @@
    econ_cmu/php artisan serv
 8. ดำเนินการเปิด cmd พิมพ์ command (สำหรับจำลอง reactjs)
     econ_cmu/econ_cmu_system/npm run dev
-9. Source reactjs จะอยู่ที่ Folder ที่ชื่อว่า 
+9. Source reactjs จะอยู่ที่ Folder ที่ชื่อว่า econ_cmu_system
     
    
