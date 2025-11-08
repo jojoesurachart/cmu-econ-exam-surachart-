@@ -17,7 +17,7 @@
 6. ติดตั้ง composer เพื่อ run laravel
     https://getcomposer.org/download/
 7. ดำเนินการเปิด cmd พิมพ์ command (สำหรับจำลอง  laravel) 
-   econ_cmu/php artisan serv
+   econ_cmu/php artisan serve
 8. ดำเนินการเปิด cmd พิมพ์ command (สำหรับจำลอง reactjs)
     econ_cmu/econ_cmu_system/npm run dev
 9. Source reactjs จะอยู่ที่ Folder ที่ชื่อว่า econ_cmu_system
