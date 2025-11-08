@@ -7,7 +7,8 @@
 1. Laravel เป็น backend
 2. reactJS เป็น frontend
 3. ใช้ MySql เป็นฐานข้อมูล
-ขั้นตอนการติดตั้งไฟล์
+
+#ขั้นตอนการติดตั้งไฟล์
 1. แตกไฟล์ออกมา
 2. ติดตั้งฐานข้อมูลซึ่งไฟล์จะอยู่ที่ folder ชื่อว่า econ_cmu/database/db_econ_cmu.sql
 3. ติดตั้ง xampp version v.3.3.0 version ("php": 8.1)
