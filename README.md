@@ -7,6 +7,7 @@
 1. Laravel เป็น backend
 2. reactJS เป็น frontend
 3. ใช้ MySql เป็นฐานข้อมูล
+4. ใช้ Library Axios เป็น API กลางในการรับส่งข้อมูลระหว่าง backend กับ frontend
 
 #ขั้นตอนการติดตั้งไฟล์
 1. แตกไฟล์ออกมา
